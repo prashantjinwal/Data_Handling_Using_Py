@@ -1,1 +1,1 @@
-Basic Python for data handling 
+ Python for data handling
